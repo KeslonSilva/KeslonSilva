@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá, Eu sou o Keslon Silva
 
-<!--
-**KeslonSilva/KeslonSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho com DESIGNER GRÁFICO 
+- 🌱 Estou aprendendo FULL STACK 
+- 💬 Me chama no insta: Keslonsilva26
+- 😄 Ele/dele
+- ⚡ Amante dos filmes da Marvel, Harry Potter e Senhor dos Anéis
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeslonSilva&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeslonSilva&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![image](https://user-images.githubusercontent.com/38465724/146689283-34b4869a-685c-4a45-8682-c13c4591b57b.png)
+
+
+
+
