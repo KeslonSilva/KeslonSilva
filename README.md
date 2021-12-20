@@ -1,8 +1,8 @@
 ### Olá, Eu sou o Keslon Silva
 
-- 🔭 Hoje trabalho com DESIGNER GRÁFICO 
+- 🔭 Hoje trabalho com EDIÇÃO DE VÍDEOS
 - 🌱 Estou aprendendo FULL STACK 
-- 💬 Me chama no insta: Keslonsilva26
+- 💬 Me chama no insta: keslonsilva26
 - 😄 Ele/dele
 - ⚡ Amante dos filmes da Marvel, Harry Potter e Senhor dos Anéis
 
