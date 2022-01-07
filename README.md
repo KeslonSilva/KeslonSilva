@@ -25,7 +25,7 @@
  <div align="center">
   
  ## "A dificuldade externa é uma oportunidade de aprendizado."
- Leandro Moreira - Zion
+  <a href="https://www.instagram.com/leandromoreira7/" alt="link para o site do leandro moreira"> Leandro Moreira - Zion </a>
   
 </div>
  
