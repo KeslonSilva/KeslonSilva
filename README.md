@@ -1,4 +1,7 @@
 ### Olá, Eu sou o Keslon Silva
+<div align="center">
+  <br>
+ </div>
 
 - 🔭 Hoje trabalho com EDIÇÃO DE VÍDEOS
 - 🌱 Estou aprendendo DESENVOLVIMENTO WEB
@@ -9,6 +12,11 @@
 - 🍣 Comedor de Sushi
 - 🧙‍ Jogador nas horas de calmaria 
 
+
+<div align="center">
+  <br>
+  <br>
+ </div>
 
 <div align="center">
   <a href="https://github.com/KeslonSilva">
