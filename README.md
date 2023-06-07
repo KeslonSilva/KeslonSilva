@@ -7,7 +7,7 @@
 - 🐍 Python <br>
 - ⚡ Harry Potter <br>
 - 💍 The Lord of the Rings  <br>
-- 🧑‍🎨 I'm Graphic Designer too ^_^ <br>
+- 🎨 I'm Graphic Designer too ^_^ <br>
 
 
 
