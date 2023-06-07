@@ -11,6 +11,7 @@
 - 🧑‍🎨 sou Designer Gráfico também ^_^
 - 🍣 Comedor de Sushi
 - 🧙‍ Jogador nas horas de calmaria 
+- 🐍 Python
 
 
 
